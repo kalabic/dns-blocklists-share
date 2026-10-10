@@ -18,6 +18,7 @@ ackvainly.com
 ackzany.com
 admonishdecisiveyetnow.com
 ad-shield.cc
+ad-shield.dev
 adshield-fallback-dev-wskxz.b-cdn.net
 adshield-fallback-staging-yp6cs.b-cdn.net
 ad-shield.io
@@ -175,7 +176,6 @@ hmphmehfailing.com
 hmphpeppery.com
 hmphyuck.com
 honestlysweetly.com
-host-override.ad-shield.dev
 housebutsoon.com
 howdual.com
 howduhtable.com
@@ -263,6 +263,7 @@ meritvainlydarn.com
 m.funandnews.de
 middlegadzooks.com
 midwifemoist.com
+mildsleepily.com
 milkyepic.com
 misguidedfast.com
 misreportmeh.com
