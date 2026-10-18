@@ -23,6 +23,7 @@ ad-shield.dev
 adshield-fallback-dev-wskxz.b-cdn.net
 adshield-fallback-staging-yp6cs.b-cdn.net
 ad-shield.io
+aforearound.com
 aforenowpear.com
 againstnext.com
 agreementdaily.com
