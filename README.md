@@ -1,10 +1,11 @@
 # dns-blocklists-share
 
-Shared DNS blocklists. One hostname per line.
+Shared blocklists for Ad-Shield. One entry per line.
 
 ## Lists
 
-- [`share/ad-shield.txt`](share/ad-shield.txt) — Ad-Shield and related hosts
+- [`share/ad-shield.txt`](share/ad-shield.txt) - Ad-Shield and related hosts
+- [`share/ad-shield-ips.txt`](share/ad-shield-ips.txt) - the Ad-Shield IP addresses where most resolved hostnames landed. The addresses are Cloudflare anycast addresses, so other customers share them. Provenance is in [`sources/ad-shield-ips/`](sources/ad-shield-ips/README.md)
 
 ## Sort
 
